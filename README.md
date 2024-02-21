@@ -1,8 +1,8 @@
 ### Hello there 👋
 📈 Hi, I'm Tomás, an industrial engineer now specializing in deep learning on time series.
 
-👨‍💻 **I'm currently looking for a job in this field so feel free to contact me for any potential opportunities.**
+👨‍💻 **Actively seeking opportunities in this field, I invite you to reach out for potential collaborations or job prospects.**
 
-📋 You can take a look at this [written piece](tobemo.github.io) and my public repositories to get a better feel of who I am and what I can do for you.
-Currently, there is not much going on here other than a simple demo, but over time I do plan to add more content.
-Time permitting, I am hoping to be able to create atomic examples of all the things I have learned over the years (as detailed in the previously mentioned [written piece](tobemo.github.io)).
+📋 Explore my [written work](tobemo.github.io) and public repositories for insights into my skills and experience. 
+While the current content is a simple demo, I plan to expand it over time. I aim to create comprehensive examples based on my years of experience, as detailed in the aforementioned written piece.
+Thank you for considering my profile. Feel free to connect and discuss how I can contribute to your projects or team.
