@@ -5,4 +5,4 @@
 
 📋 Explore my [write-up](https://tobemo.github.io/) and public repositories for insights into my skills and experience. 
 While the current content is a simple demo, I plan to expand it over time. I aim to create comprehensive examples based on my years of experience, as detailed in the aforementioned written piece.
-Feel free to connect and discuss how I can contribute to your projects or team.
+Feel free to connect and we can discuss how I can contribute to your project or team.
